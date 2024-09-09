@@ -1,6 +1,6 @@
 
 import { useState } from 'react';
-import './App.css';
+
 import Aboutus from './component/Aboutus';
 import Navebar from './component/Navebar';
 
